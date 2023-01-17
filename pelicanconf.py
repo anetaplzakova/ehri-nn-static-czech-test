@@ -28,7 +28,7 @@ MENUITEMS = (
     ('Uživatelé', 'users'),
     ('Novinky', 'news'),
     ('Kontakt', 'contact'),
-    ('Tvoje bába', 'contact'),
+    ('Tvoje bába', 'baba'),
     )
 
 DEFAULT_PAGINATION = False
