@@ -10,7 +10,7 @@ from pelicanconf import *
 #SITEURL = 'https://michalfrankl.github.io/ehri-nn-static-czech'
 #RELATIVE_URLS = False
 
-SITEURL = 'https://anetaplzakova.github.io/ehri-nn-static-czech'
+SITEURL = 'https://anetaplzakova.github.io/ehri-nn-static-czech-test'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
