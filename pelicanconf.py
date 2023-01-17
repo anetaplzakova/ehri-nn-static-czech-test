@@ -24,7 +24,7 @@ MENUITEMS = (
     ('O EHRI', ''),
     ('Český uzel EHRI', 'about'),
     ('Služby', 'services'),
-    ('Výzkum v ČR', 'researchcz'),
+    ('Výzkum v ČR', 'research_cz'),
     ('Uživatelé', 'users'),
     ('Novinky', 'news'),
     ('Kontakt', 'contact'),
