@@ -20,15 +20,17 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-MENUITEMS = (
+MENUITEMS = [
     ('O EHRI', ''),
-    ('Český uzel EHRI', 'about'),
+    ('Český uzel EHRI', 'about'[
+        ('Zapojené instituce', 'members'),
+    ]),
     ('Služby', 'services'),
     ('Výzkum v ČR', 'researchcz'),
     ('Uživatelé', 'users'),
     ('Novinky', 'news'),
     ('Kontakt', 'contact'),
-        )
+]
 
 DEFAULT_PAGINATION = False
 
