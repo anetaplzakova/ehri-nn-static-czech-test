@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 MENUITEMS = [
     ('O EHRI', ''),
-    ('Český uzel EHRI', 'about'[
+    ('Český uzel EHRI', [
         ('Zapojené instituce', 'members'),
     ]),
     ('Služby', 'services'),
