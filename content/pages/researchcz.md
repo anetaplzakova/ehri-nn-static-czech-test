@@ -1,9 +1,9 @@
-Title: O EHRI | EHRI-CZ
-Date: 2022-11-29 14:47
+Title: VÝZKUM | EHRI-CZ
+Date: 2023-01-18 14:47
 Category: Page
-Slug: home
+Slug: researchcz
 URL: 
-save_as: index.html
+save_as: researchcz.html
 lang: cs
 
 # VÝZKUM V ČR
