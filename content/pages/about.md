@@ -1,4 +1,4 @@
-Title: EHRI na Slovensku | EHRI-SK
+Title: český uzel EHRI | EHRI-CZ
 Date: 2022-11-29 14:47
 Category: Page
 Slug: about
