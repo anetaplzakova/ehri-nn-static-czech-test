@@ -19,5 +19,3 @@ save_as: services.html
 - Akce / workhopy
 
 - EHRI porál
-
-- 
