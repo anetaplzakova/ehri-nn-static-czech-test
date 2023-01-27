@@ -18,6 +18,12 @@ translation: true
 
 <h2>PODSEKCE:</h2>
 
+**Výzkum v ČR**
+
+- histoiŕie a současnost výzkumu o holokaustu v ČR
+
+</br>
+
 **Zapojené instituce**
 
 - krátký popis každé instituce
