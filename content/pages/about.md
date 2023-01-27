@@ -20,8 +20,6 @@ translation: true
 
 **Výzkum v ČR**
 
-- histoiŕie a současnost výzkumu o holokaustu v ČR
-
 </br>
 
 **Zapojené instituce**
