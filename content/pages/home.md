@@ -18,7 +18,7 @@ Prostřednictvím stipendií a stáží EHRI zároveň podporuje výchovu nové 
 
 [Český uzel EHRI](about)
 
-# NEJDŮLEŽITĚJÍ / NEJZAJÍMAVĚJŠÍ ODKAZY
+# RYCHLÁ NAVIGACE / NEJDŮLEŽITĚJÍ ODKAZY
 <aside>
             
             <section id="portal-sections">
