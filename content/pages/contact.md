@@ -5,9 +5,11 @@ Slug: contact
 URL: contact
 save_as: contact.html
 
-# Kontakt
+# Kontakty
 
 - kontakt na koordinátora českého uzlu
+
+- kontakty na koordinátory zapojených institucí
 
 - přihlášení k mailing listu EHRI-CZ
 
