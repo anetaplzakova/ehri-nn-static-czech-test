@@ -25,6 +25,8 @@ translation: true
 
 - popis nejdůležitějších projektů/výsledků (databáze ad.) s odkazy
 
+- role v EHRI-CZ
+
 - odkaz na web
 
 - kontaktní email na koordinátora EEHRI-CZ za danou instituci
