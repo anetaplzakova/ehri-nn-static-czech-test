@@ -14,6 +14,7 @@ translation: true
 - popis aktivit českého uzlu
 </br>
 </br>
+</br>
 
 **PODSEKCE:**
 
