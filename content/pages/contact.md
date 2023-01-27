@@ -8,3 +8,7 @@ save_as: contact.html
 # Kontakt
 
 - kontakt na koordinátora českého uzlu
+
+- přihlášení k mailing listu EHRI-CZ
+
+- odkaz na sociální sítě
