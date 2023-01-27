@@ -18,7 +18,6 @@ translation: true
 
 <h2>PODSEKCE:</h2>
 
-</br>
 
 **Zapojené instituce**
 
