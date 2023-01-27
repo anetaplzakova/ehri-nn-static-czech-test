@@ -23,6 +23,7 @@ AUTHOR_FEED_RSS = None
 MENUITEMS = [
     ('O EHRI', ''),
     ('Český uzel EHRI', 'about'),
+    ('Výzkum v ČR', 'researchcz'),
     ('Služby', 'services'),
     ('Novinky', 'news'),
     ('Kontakt', 'contact'),
