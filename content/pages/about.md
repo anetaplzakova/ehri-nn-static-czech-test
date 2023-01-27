@@ -18,8 +18,7 @@ translation: true
 
 
 **PODSEKCE:**
-
-    
+</br>
 **Zapojené instituce**
 
 - krátký popis každé instituce
