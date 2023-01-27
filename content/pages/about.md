@@ -16,6 +16,9 @@ translation: true
 **PODSEKCE:**
     
 **Zapojené instituce**
+
 - krátký popis každé instituce
+
 - popis nejdůležitějších projektů/výsledků (databáze ad.) s odkazy
+
 - odkaz na web
