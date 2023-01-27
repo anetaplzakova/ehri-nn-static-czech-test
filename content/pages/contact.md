@@ -7,4 +7,4 @@ save_as: contact.html
 
 # Kontakt
 
-- kontakt na koordinátora
+- kontakt na koordinátora českého uzlu
