@@ -18,8 +18,6 @@ translation: true
 
 <h2>PODSEKCE:</h2>
 
-**Výzkum v ČR**
-
 </br>
 
 **Zapojené instituce**
