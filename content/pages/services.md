@@ -14,7 +14,7 @@ save_as: services.html
 
 **PODSEKCE:**
 
-- Popis datových zdrojů (databáze obětí)
+- Popis datových zdrojů (databáze, datasety)
 
 - Akce / workhopy
 
