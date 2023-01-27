@@ -16,7 +16,7 @@ translation: true
 </br>
 </br>
 
-**PODSEKCE:**
+<h2>PODSEKCE:</h2>
 
 **Zapojené instituce**
 
