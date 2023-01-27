@@ -26,7 +26,7 @@ MENUITEMS = [
     ('Výzkum v ČR', 'researchcz'),
     ('Služby', 'services'),
     ('Novinky', 'news'),
-    ('Kontakt', 'contact'),
+    ('Kontakty', 'contact'),
 ]
 
 DEFAULT_PAGINATION = False
